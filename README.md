@@ -53,9 +53,9 @@ You can contribute in a number of ways.
 
 ## Community Channels
 
- * [Follow us on Twitter!](https://twitter.com/technopati)
- * [Follow us on Facebook](https://www.facebook.com/technopatiOfficial/)
- * [Join the Facebook Group](https://www.facebook.com/groups/technopati)
+ * [Follow us on Twitter!](https://twitter.com/technopanti)
+ * [Follow us on Facebook](https://www.facebook.com/technopantiOfficial/)
+ * [Join the Facebook Group](https://www.facebook.com/groups/technopanti)
 
 
 For any queries, feel free to raise an [issue](https://github.com/internautsorg/technopanti-guide/issues/new) any time :)
