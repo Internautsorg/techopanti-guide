@@ -12,7 +12,7 @@ This repository is used for tracking issues directly related to Rust Hacks. It c
 
 ## Issue Template:
 
-[Click here](https://github.com/internautsorg/technopanti-guide/issues/new?template=default.md) to create issue with default template
+[Click here](https://github.com/Internautsorg/techopanti-guide/issues/new?template=default.md) to create issue with default template
 
 ```
 ## Goal: 
@@ -49,7 +49,7 @@ You can contribute in a number of ways.
 
 ## Issues
 
- - [If you're planning for an event](https://github.com/internautsorg/technopanti-guide/issues/new?template=event.md)
+ - [If you're planning for an event](https://github.com/Internautsorg/techopanti-guide/issues/new?template=event.md)
 
 ## Community Channels
 
