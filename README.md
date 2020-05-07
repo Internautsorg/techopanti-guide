@@ -6,6 +6,10 @@ This repository is used for tracking issues directly related to Rust Hacks. It c
 * Resources for advanced learning and participation.
 * Our weekly status updates.
 
+If you haven't already, follow the TechnoPanti on Twitter.
+
+[![Follow TechnoPanti at https://twitter.com/technopanti](https://img.shields.io/twitter/url/https/twitter.com/fold_left.svg?style=social&label=Follow%20%40Technopanti)](https://twitter.com/technopanti)
+
 ## Resources
 
 
