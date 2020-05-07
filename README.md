@@ -62,4 +62,4 @@ You can contribute in a number of ways.
  * [Join the Facebook Group](https://www.facebook.com/groups/technopanti)
 
 
-For any queries, feel free to raise an [issue](https://github.com/internautsorg/technopanti-guide/issues/new) any time :)
+For any queries, feel free to raise an [issue](https://github.com/Internautsorg/techopanti-guide/issues/new) any time :)
